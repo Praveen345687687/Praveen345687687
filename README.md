@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveen345687687
-- 👀 I’m interested in web development and competitive programming.
-- 🌱 I’m currently learning javascript.
+- 👀 I have experience in web development and competitive programming.
+- 🌱 I’m currently learning backend for webdevelopment.
 - 💞️ I’m looking to collaborate on web development project.
 - 📫 How to reach me rpraveen2k4@gmail.com
 
